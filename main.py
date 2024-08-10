@@ -1,5 +1,4 @@
 import streamlit as st
-import emoji
 from sympy import sympify, zoo
 
 # Function to init display
